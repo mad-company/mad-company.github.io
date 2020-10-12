@@ -24,9 +24,9 @@ url                      : "https://www.madcompany.app" # the base hostname & pr
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mad-company/mad-company.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/my_assets/images/logo_mad_company.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/my_assets/images/logo_mad_company_transp_500x500.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -57,27 +57,24 @@ og_image                 : # Open Graph/Twitter default site image
 
 # Site Author
 author:
-  name             : "jgodon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS independent developer"
+  name             : "Jgodon"
+  avatar           : "/my_assets/images/avatar_carre.png"
+  bio              : "Hello! I'm a 39 years old iOS independent developer who loves smart code and modern apps"
   location         : "Paris, France"
-  email            : contact@madcompany.app
+  # email            : contact@madcompany.app
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:contact@madcompany.app"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/j_godon"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:jeremie@madcompany.app"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/mad-company/"
 
 # Site Footer
 footer:
@@ -227,7 +224,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      read_time: false
       comments: # true
       share: true
       related: true
