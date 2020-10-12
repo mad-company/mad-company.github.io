@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "About"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    description: "About the MAD Company"
+  - title: "Blog"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    description: "jgodon's blog"
+  - title: "Contact"
+    description: "Contact us"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
