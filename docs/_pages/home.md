@@ -5,34 +5,37 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/coffee2.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
+  <br />
+  A company who cares about developing **mobile applications** with **smart**, **tested** and **modern** code, using the **latest frameworks** and **native elements** as much as possible.
+  <br /><br />
+  A company who respect **user privacy** by design.
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    alt: "modern code"
+    title: "Modern code"
+    excerpt: "All applications developed at the MAD Company are made with a modern, smart and tested code."
     url: "/docs/configuration/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    alt: "native elements"
+    title: "Natives elements"
+    excerpt: "As much as possible, almost all interface elements of our applications are natives (no custom, no hybrides, no UX freestyle)."
     url: "/docs/layouts/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+  - image_path: /assets/images/privacy.jpeg
+    alt: "user privacy"
+    title: "User privacy"
+    excerpt: "User of MAD Company applications can be sure that their privacies are respected by design."
     url: "/docs/license/"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
     btn_label: "Learn more"      
 ---
 
 {% include feature_row %}
+
+<!-- actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/" -->
