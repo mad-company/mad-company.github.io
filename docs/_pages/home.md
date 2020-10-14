@@ -11,14 +11,14 @@ excerpt: >
   <br /><br />
   A company who respect **user privacy** by design.
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/swiftui.png
     alt: "modern code"
     title: "Modern code"
     excerpt: "All applications developed at the MAD Company are made with a modern, smart and tested code."
     url: "/docs/configuration/"
     btn_class: "btn--info"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/native.png
     alt: "native elements"
     title: "Natives elements"
     excerpt: "As much as possible, almost all interface elements of our applications are natives (no custom, no hybrides, no UX freestyle)."
