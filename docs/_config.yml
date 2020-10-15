@@ -59,7 +59,7 @@ og_image                 : # Open Graph/Twitter default site image
 author:
   name             : "Jgodon"
   avatar           : "/assets/images/avatar_carre.png"
-  bio              : "A 39 years old iOS independent developer who loves smart code, modern apps, good jokes and open minded people."
+  bio              : "I'm a 39 years old iOS independent developer who loves smart code, modern apps, good jokes and open minded people."
   location         : "Paris, France"
   # email            : contact@madcompany.app
   links:
@@ -71,10 +71,10 @@ author:
       url: "https://twitter.com/j_godon"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:jeremie@madcompany.app"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mad-company/"
+      url: "mailto:helloworld@madcompany.app"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/mad-company/"
 
 # Site Footer
 footer:

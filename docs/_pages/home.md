@@ -4,12 +4,16 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/coffee2.jpg
+  overlay_image: /assets/images/coffee.jpg
 excerpt: >
-  <br />
-  A company who cares about developing **mobile applications** with **smart**, **tested** and **modern** code, using the **latest frameworks** and **native elements** as much as possible.
   <br /><br />
-  A company who respect **user privacy** by design.
+  **Mobile applications** with **smart**, **tested** and **modern** code
+  <br /><br />
+  **Latest frameworks** and **native elements** used
+  <br /><br />
+  **User privacy** respected by design
+  <br /><br />
+  Work in a positive, **open-minded** athmosphere
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
@@ -20,15 +24,15 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/native.png
     alt: "native elements"
-    title: "Natives elements"
-    excerpt: "As much as possible, almost all interface elements of our applications are natives (no custom, no hybrides, no UX freestyle)."
+    title: "Native elements"
+    excerpt: "As much as possible, interfaces elements of our applications are natives (no custom, no hybrides, no UX freestyle)."
     url: "/docs/layouts/"
     btn_class: "btn--info"
     btn_label: "Learn more"
   - image_path: /assets/images/privacy.jpeg
     alt: "user privacy"
     title: "User privacy"
-    excerpt: "User of MAD Company applications can be sure that their privacies are respected by design."
+    excerpt: "Users of MAD Company applications can be sure that their privacies are respected by design."
     url: "/docs/license/"
     btn_class: "btn--info"
     btn_label: "Learn more"      
