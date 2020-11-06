@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "10 tools for an iOS developer"
+title:  "10 tools for an iOS developer" 
 date: 2020-11-04 13:15:20 +0200
 categories: Tools
 tags: indie_dev, tools
@@ -69,56 +69,58 @@ Remarque: [une appli iOS](https://itunes.apple.com/fr/app/charles-proxy/id113421
 
 ## 5. [Postman](https://www.getpostman.com/downloads/) (📬)
 
-Ce soft permet de gérer vos APIs tout au long de leur cycle de développement :
+This app helps you to manage APIs along your develpement cycle :
 
-- développer / debugger
-- tester / mocker / monitorer
-- partager vos collections
-- documenter
+- develop / debug
+- test / mock / monitoring
+- share collections
+- documentation
 
-Très puissant, il y a plusieurs prix, de gratuit pour les fonctions de base à 18$ / mois.
+Very powerfull, there are several prices from free for basic features to $18 / mois for complete features
 
 ![postman](/assets/images/articles/ios_tools/postman.png)
 
 
-# 📈 Productivité
+# 📈 Productivity
 
 ## 6. [Pastebot](https://tapbots.com/pastebot/) (😎)
 
 
-Voici le **king of copier/coller** !
+Here is the **copy/paste King** !
 
-Que ce soit pour refactoriser du code, écrire un article, un email ou même un simple message Slack, le copier/coller est une indispensable fonctionnalité... 
-
-Mais si vous saviez ce qu'un petit logiciel comme Pastebot pouvait vous apporter, vous l'adopterier sans tarder... On parle de copier de multiples extraits de textes d'une part puis de coller ceux que vous voulez où vous voulez, d'y ajouter des filtres, de formater avant de coller votre texte, etc... Son prix ? 13$
+It could be for refactoring your code, writing an article, an email or even a simple Slack message, copy/paste is a must-have feature...
+ 
+But if you knew what a small app like Pastebot can bring you, you would adopt it quickly I bet... I'm talking about copy multiple lines of text and/or code and then paste them where you want add filters, format them before pasting, etc... It's price ? $13 !
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qpEeZ2yaB-k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 7. [Alfred](https://www.alfredapp.com) (⚙️)
 
-Vous utilisez Spotlight sous macOS ? Alfred est en quelque sorte son père, enfin disons plutôt son mentor, celui qui lui a tout appris... il est plus complet et plus puissant. 
-Personnellement, je n'utilise que lui. Il me permet de :
-- **lancer** mes applis
-- **rechercher** mes fichiers en local ou quoique ce soit sur le net
-- controller ma **musique**
-- il fait office de **calculette**
+You're using Spotlight on macOS ? Let's say that Alfred could be its father... at least its mentor, the one that learn everything to him... But in more complete and more powerfull.
 
-Mais surtout, il me donne la possiblité __d'ajouter des *"workflows"*__ que j'utilise pour __traduire rapidement des textes, ouvrir des sites directement__ où je veux (par exemple la commande PR m'ouvre directement le repo Github, à l'onglet *Pull Request*), **compresser** des images, interagir avec Slack, *switcher* entre wifi et ethernet, **éteindre** ma machine, etc...
-La version de base est gratuite et l'extension ajoutant plus de fonctionnalités coûte 23£.
+Personaly, I only use Alfred as it allows me to :
+- **launch** my favorites apps
+- **search** my local files or whatever on the Internet
+- control my music
+- calculator
+
+But more important, it gives me the opportunity to **add worflows** that I use to **quickly translate texts**, open website directly where I want (for example the `PR` command open my *Github repo* to *Pull Request* segment), compress images, interact with Slack, Mail, switch between Wifi and Ethernet, shutdown my mac (yes I do this sometimes ;)), ... 
+Basic version is free and extension (includng workflow cost £23).
+
 
 ![Alfred](/assets/images/articles/ios_tools/2018-02-23-1.gif)
 
 
-# 🎤 Présentations
+# 🎤 Keynotes
 
 ## 8. [Deckset](https://www.deckset.com) (🎥)
 
-Si vous ne connaissez pas ce soft, il s'agit d'un grand classique pour un développeur d'aujourd'hui. Un *must-have* à 29€. 
-Il vous sera utile dans la réalisation de vos présentations écrites en **Markdown**, avec la coloration syntaxique du code, les photos, videos, etc...
-Deckset vous offrira de nombreux thèmes différents (les goûts et les couleurs, tout ça...) et vous pourrez également les personnaliser à votre guise.
+If you don't know this software, this is a big classical one for a nowdays developer. A *must-have* that cost €29.
+It will help you while realising keynote written in **Markdown**, with code syntaxic color, photos, videos, etc...
+Deckset also offers lots of different themes that you can also personalize as you wish.
 
-(Remarque: soft initialement développé par Chris Eidhof)
+(Remark: initialy developed by Chris Eidhof)
 
 ![deckset-adding-images](/assets/images/articles/ios_tools/deckset-adding-images.jpg)
 
