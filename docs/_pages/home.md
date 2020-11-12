@@ -6,13 +6,13 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/coffee.jpg
 excerpt: >
-  We're happy to create **iOS applications** in a positive and **open-minded** athmosphere :
+  We're happy to create **iOS applications** in an **open-minded** athmosphere :
   <br /><br />
-  - built with a **smart**, **tested** and **modern** code
+  • built with a **smart**, **tested** and **modern** code
   <br /><br />
-  - using **latest frameworks** and **native elements**
+  • using **latest frameworks** and **native elements**
   <br /><br />
-  - respecting **user privacy** by design
+  • respecting **user privacy** by design
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
