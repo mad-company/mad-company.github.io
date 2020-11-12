@@ -1,3 +1,31 @@
+---
+permalink: /about/
+title: About MAD Company
+last_modified_at: 2020-11-12T15:30:22-04:00
+toc: false
+---
+
+## Foundation
+
+Founded in 2020 by Jérémie Godon, the MAD Company is a Mobile Applications Developers Company based in Paris, France.
+
+## Ambitions
+
+The main goal of MAD Company is to ship applications (mainly iOS apps at the moment) built with a **smart, tested and modern code**.
+
+We always use the **latest frameworks** and **interface elements** of our applications are **natives** (no custom, no hybrides, no UX freestyle as much as possible). 
+
+Moreover, our apps respect **user privacy** by design.
+
+## Currently
+
+Since October 2020, the MAD Company started the development of a new iOS product **in association with hawk•ci**  that will help mobile developers from all around the world to increase their efficiency while using a well-known Continious Integration service... 
+
+Stay tuned for announcements to come on [Jérémie Godon's blog][jgodon-blog]
+
+[jgodon-blog]: {{ "/blog/" | relative_url }}
+
+
 <!-- ---
 permalink: /about/
 title: "About"
@@ -54,28 +82,4 @@ For even more demo pages check the [posts archive][year-archive].
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. -->
+ -->
