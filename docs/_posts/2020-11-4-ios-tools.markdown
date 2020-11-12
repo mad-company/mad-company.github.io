@@ -1,16 +1,12 @@
 ---
 layout: single
 title:  "10 tools for iOS development" 
+toc: true
 date: 2020-11-04 13:15:20 +0200
 tags: indie_dev tools
 ---
 
-Here is a list of 10 iOS app I use daily, weekly or monthly. Most of them are well known but maybe you’ll find a few ones that you’ve never used 😉. 
-
-I’ve chosen to group them in 3 categories : 
-- **Debug** 🛠
-- **Productivity** 📈
-- **Keynote** 🎥
+Here is a list of 10 iOS app I use daily, weekly or monthly. They are grouped in 3 categories: debug 🛠, productivity 📈 and keynote 🎥. Most of them are well known but maybe you’ll find a few ones that you’ve never used 😉. 
 
 ---
 
