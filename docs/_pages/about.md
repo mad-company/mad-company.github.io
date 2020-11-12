@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About MAD Company
+title: About the MAD Company
 last_modified_at: 2020-11-12T15:30:22-04:00
 toc: false
 ---
