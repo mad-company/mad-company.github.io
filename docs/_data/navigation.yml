@@ -1,15 +1,11 @@
 # main links
 main:
-  - title: "About"
+  - title: "About us"
     url: /about/
     description: "About the MAD Company"
   - title: "Blog"
     url: /blog/
     description: "Jgodon's blog"
   - title: "Contact"
+    url: /contact/
     description: "Contact us"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
