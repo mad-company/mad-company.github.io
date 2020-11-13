@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: About the MAD Company
-last_modified_at: 2020-11-12T15:30:22-04:00
 toc: false
 ---
 
@@ -21,7 +20,7 @@ Moreover, our apps respect **user privacy** by design.
 
 Since October 2020, the MAD Company started the development of a new iOS product **in association with hawk•ci**  that will help mobile developers from all around the world to increase their efficiency while using a well-known Continious Integration service... 
 
-Stay tuned for announcements to come on [Jérémie Godon's blog][jgodon-blog]
+Stay tuned for announcements to come on [jgodon's blog][jgodon-blog]
 
 [jgodon-blog]: {{ "/blog/" | relative_url }}
 
