@@ -16,7 +16,7 @@ We always use the **latest frameworks** and **interface elements** of our applic
 
 Moreover, our apps respect **user privacy** by design.
 
-## Currently
+## At the moment...
 
 Since October 2020, the MAD Company started the development of a new iOS product **in association with hawk•ci**  that will help mobile developers from all around the world to increase their efficiency while using a well-known Continious Integration service... 
 
