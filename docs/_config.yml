@@ -58,10 +58,10 @@ og_image                 : # Open Graph/Twitter default site image
 # Site Author
 author:
   name             : "Jérémie Godon"
-  avatar           : "/assets/images/avatar_carre.png"
+  avatar           : "/assets/images/avatars/oim_clindoeil.png"
   bio              : "39 years old iOS independent developer who loves smart code, modern apps, 🍷, fun and open minded people."
   location         : "Paris, France"
-  # email            : contact@madcompany.app
+  #email            : contact@madcompany.app
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
