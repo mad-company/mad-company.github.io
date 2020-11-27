@@ -4,15 +4,15 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/coffee4.jpg
+  overlay_image: /assets/images/coffee6.jpg
 excerpt: >
-  We are happy to create up-to-date iOS Apps :
+  Happy to create up-to-date iOS Apps
   <br /><br />
-  🧑‍💻 built with a **smart**, **tested** and **modern** code
-  <br /><br />
-  🧬 using **latest frameworks** and **native elements**
-  <br /><br />
-  🔐 respecting **user privacy** by design
+  🧑‍💻 Built with a smart, tested and modern code
+  <br />
+  🧬 Using latest frameworks and native elements
+  <br />
+  🔐 Respecting user privacy by design
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
