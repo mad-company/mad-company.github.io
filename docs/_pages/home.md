@@ -4,28 +4,28 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/coffee.jpg
+  overlay_image: /assets/images/coffee4.jpg
 excerpt: >
-  We're happy to create **iOS applications** in an **open-minded** athmosphere :
+  We are happy to create up-to-date iOS Apps :
   <br /><br />
-  • built with a **smart**, **tested** and **modern** code
+  🧑‍💻 built with a **smart**, **tested** and **modern** code
   <br /><br />
-  • using **latest frameworks** and **native elements**
+  🧬 using **latest frameworks** and **native elements**
   <br /><br />
-  • respecting **user privacy** by design
+  🔐 respecting **user privacy** by design
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
     title: "Modern code"
-    excerpt: "All applications developed at the MAD Company are made with a modern, smart and tested code."
+    excerpt: "All applications that are developed at the MAD Company are made with a modern, smart and tested code."
   - image_path: /assets/images/native.png
     alt: "native elements"
     title: "Native elements"
-    excerpt: "As much as possible, interfaces elements of our applications are natives (no custom, no hybrides, no UX freestyle)."
+    excerpt: "As much as possible, interfaces elements of our apps are natives (no custom, no hybrides, no *UX freestyle*)."
   - image_path: /assets/images/privacy.jpeg
     alt: "user privacy"
     title: "User privacy"
-    excerpt: "Users of MAD Company applications can be sure that their privacies are respected by design."
+    excerpt: "Users of MAD Company apps can be sure that their privacies are respected by design."
 ---
 
 {% include feature_row %}
