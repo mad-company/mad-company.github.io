@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/coffee6.jpg
 excerpt: >
   Happy to create up-to-date iOS Apps
-  <br /><br />
+  <br /><br /><br />
   🧑‍💻 Built with a smart, tested and modern code
   <br />
   🧬 Using latest frameworks and native elements
