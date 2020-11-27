@@ -7,12 +7,12 @@ header:
   overlay_image: /assets/images/coffee6.jpg
 excerpt: >
   Happy to create up-to-date iOS Apps
-  <br /><br /><br />
-  🧑‍💻 Built with a smart, tested and modern code
-  <br />
-  🧬 Using latest frameworks and native elements
-  <br />
-  🔐 Respecting user privacy by design
+  <br/><br/><br/>
+  📲 &nbsp;&nbsp;&nbsp;&nbsp; Built with a smart, tested and modern code
+  <br/>
+  🧬 &nbsp;&nbsp;&nbsp;&nbsp; Using latest frameworks and native elements
+  <br/>
+  🔐 &nbsp;&nbsp;&nbsp;&nbsp; Respecting user privacy by design
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
