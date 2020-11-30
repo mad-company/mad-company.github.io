@@ -8,11 +8,11 @@ header:
 excerpt: >
   Happy to create up-to-date iOS Apps
   <br/><br/><br/>
-  📲 &nbsp;&nbsp;&nbsp;&nbsp; Built with a smart, tested and modern code
+  📲 &nbsp;&nbsp;Built with a smart, tested and modern code
   <br/>
-  🧬 &nbsp;&nbsp;&nbsp;&nbsp; Using latest frameworks and native elements
+  🧬 &nbsp;&nbsp;Using latest frameworks and native elements
   <br/>
-  🔐 &nbsp;&nbsp;&nbsp;&nbsp; Respecting user privacy by design
+  🔐 &nbsp;&nbsp;Respecting user privacy by design
 feature_row:
   - image_path: /assets/images/swiftui.png
     alt: "modern code"
